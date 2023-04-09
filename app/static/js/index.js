@@ -11,13 +11,12 @@ async function getTranslation(word) {
 
     translations.forEach((translation) => {
       const li = document.createElement("li");
-      li.className = "flex items-center space-x-3";
+      li.className = "flex text-white w-32 text-xl gap-3";
       const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
 
       svg.setAttribute("fill", "none");
       svg.setAttribute("stroke", "currentColor");
       svg.setAttribute("stroke-width", "1.5");
-      svg.setAttribute("viewBox", "0 0 24 24");
 
       const path = document.createElementNS(
         "http://www.w3.org/2000/svg",
