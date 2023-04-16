@@ -24,5 +24,5 @@ def translator_page():
     return render_template("translator.html")
 
 @app.route("/alphabet")
-def translator_page():
+def alphabet_page():
     return render_template("alphabet.html")
