@@ -20,7 +20,36 @@ This web app translates any word to a custom-made NATO alphabet, which programme
 ![translation](https://user-images.githubusercontent.com/117080861/230793591-67d58952-2598-429a-aa8a-4011adb91af0.png)
 
 ## Alphabet
-(Pending development)
+This view shows the alphabet content for any curious user.
+
+### Alphabet content
+* A-	Algorithm
+* B-	Branch
+* C-	CRUD
+* D-	Database
+* E-	Endpoint
+* F-	Favicon
+* G-	Git
+* H-	HTTP
+* I-	Integration
+* J-	JSON
+* K-	Keyword
+* L-	Localhost
+* M-	Microservices
+* N-	Namespace
+* O-	Object
+* P-	Path
+* Q-	Query
+* R-	Rendering
+* S-	Server
+* T-	Terminal
+* U-	URL
+* V-	Variable
+* W-	Web
+* X-	XML
+* Y-	Yarn
+* Z-	Zip
+
 
 ## Installation
 
